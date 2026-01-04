@@ -1,0 +1,6 @@
+**experiment 1:- installation and setup of git hub
+1. Install VS Code from https://code.visualstudio.com
+2. Install GCC (MinGW) compiler
+3. Check installation using: gcc --version
+4. Compile program: gcc file.c
+5. Run program: ./a.exe
